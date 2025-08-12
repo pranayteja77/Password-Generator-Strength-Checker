@@ -25,6 +25,13 @@ class PasswordGenerator:
         self.style.configure('Header.TLabel', font=('Arial', 14, 'bold'))
         
         self.create_widgets()
+
+
+
+
+
+
+    
     
     def create_widgets(self):
         # Main frame
